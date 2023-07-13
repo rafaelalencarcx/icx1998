@@ -8,7 +8,10 @@
     <style>
         body{
             text-align: center;
-            font-size: 30px;
+            font-size: 40px;
+        }
+        h1{
+            color: green;
         }
     </style>
 </head>
